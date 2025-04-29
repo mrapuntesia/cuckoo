@@ -103,7 +103,7 @@ pip install -U vmcloak
 
 vmcloak-vboxnet0
 
-sudo wget https://archive.org/download/Win7ProSP1ESP/es_windows_7_professional_with_sp1_x86_dvd_u_677069.iso
+
 
 sudo su cuckoo
 
@@ -139,3 +139,5 @@ Habilitar virtualización anidada en VirtualBox en Windows 11 "Enable Nested VT-
 cd C:\Program Files\Oracle\VirtualBox
 VBoxManage modifyvm "Ubuntu_Cucko" --nested-hw-virt on
 -------------------------------------------------------------------
+
+https://github.com/OpenSecureCo/Demos/blob/main/Cuckoo%20Install
